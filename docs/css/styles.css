@@ -58,7 +58,7 @@ img {
 .card__contain {
     padding-inline: 1.6rem;
     padding-top: 1.6rem;
-    border-bottom: var(--bgBody) solid 0.1rem;
+    border-bottom: #E5EAF0 solid 0.1rem;
 }
 
 .card__img {
@@ -72,7 +72,7 @@ img {
     padding-inline: 1.6rem;
     background-color: var(--colorBgButton);
     color: var(--colorButton);
-    font-size: 1.2rem;
+    font-size: 1rem;
     font-weight: 500;
     border: none;
     border-radius: 1.2rem;
@@ -88,7 +88,7 @@ h1 {
 
 p {
     font-size: 1.4rem;
-    line-height: 2rem;
+    line-height: normal;
     color: var(--colorDescription);
     margin-bottom: 2rem;
 }
@@ -98,6 +98,7 @@ p {
     color: var(--colorDescription);
     font-style: normal;
     font-size: 1.2rem;
+    font-weight: 400;
     padding-inline: 1.6rem;
     padding-block: 1.6rem;
 }
