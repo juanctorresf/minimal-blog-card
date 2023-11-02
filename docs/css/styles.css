@@ -5,7 +5,7 @@
     --colorBgButton: #E6D6FC;
     --colorTitle: #20293A;
     --colorDescription: #6C727F;
-    --bgBody: #E5EAF0;
+    --bgBody: #FAFAF9;
     --fontPrincipal: 'Sora', 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
@@ -67,7 +67,7 @@ img {
     margin-bottom: 1.6rem;
 }
 
-.button-card {
+.card__button {
     padding-block: 0.6rem;
     padding-inline: 1.6rem;
     background-color: var(--colorBgButton);
@@ -100,5 +100,4 @@ p {
     font-size: 1.2rem;
     padding-inline: 1.6rem;
     padding-block: 1.6rem;
-    margin-top: 1.6rem;
 }
